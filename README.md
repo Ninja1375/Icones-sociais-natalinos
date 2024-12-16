@@ -6,8 +6,6 @@ Este projeto apresenta uma interface minimalista com ícones de redes sociais es
 
 ![Ícones Sociais Natalinos](demo.png)
 
-> **Nota:** Adicione um screenshot ou uma imagem de demonstração aqui.
-
 ## Funcionalidades
 
 - Ícones de redes sociais decorados como enfeites de Natal.
@@ -17,8 +15,8 @@ Este projeto apresenta uma interface minimalista com ícones de redes sociais es
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estrutura básica do projeto.
-- **CSS3**: Estilização visual.
+- **HTML**: Estrutura básica do projeto.
+- **CSS**: Estilização visual.
 - **Font Awesome**: Ícones sociais.
 
 ## Pré-requisitos

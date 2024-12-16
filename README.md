@@ -4,8 +4,7 @@ Este projeto apresenta uma interface minimalista com ícones de redes sociais es
 
 ## Demonstração
 
-![Ícones Sociais Natalinos](demo.png)
-
+[Ícones Sociais Natalinos](https://ninja1375.github.io/Icones-sociais-natalinos/)
 ## Funcionalidades
 
 - Ícones de redes sociais decorados como enfeites de Natal.

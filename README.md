@@ -28,31 +28,27 @@ Certifique-se de ter uma conexão com a internet para carregar a biblioteca Font
 ```plaintext
 |-- index.html
 |-- style.css
+```
 
-index.html
+`index.html`
 
 Estrutura do HTML contendo os ícones de redes sociais.
 
-style.css
+`style.css`
 
 Arquivo CSS que estiliza os ícones e o fundo.
 
-Como Usar
+## Como Usar
 
-Clone este repositório:
+1. Clone este repositório:
 
-bash
+```bash
+git clone https://github.com/seu-usuario/icone-sociais-natalinos.git
+```
 
-Copiar código
+2. Navegue até o diretório do projeto:
 
-git clone https://github.com/seu-usuario/icone-sociais-natalinos.git 
-
-Navegue até o diretório do projeto:
-
-bash
-
-Copiar código
-
+```bash
 cd icone-sociais-natalinos 
 
 Abra o arquivo index.html em seu navegador.

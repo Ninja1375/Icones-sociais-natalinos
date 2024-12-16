@@ -17,7 +17,7 @@ Este projeto apresenta uma interface minimalista com ícones de redes sociais es
 
 <a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> 
 <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> 
-<a href="https://fontawesome.com/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fontawesome/fontawesome-original.svg" width="40" height="40"/></a>
+<a href="https://fontawesome.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Font_Awesome_logomark_blue.svg" width="40" height="40"/></a>
 - **HTML**: Estrutura básica do projeto.
 - **CSS**: Estilização visual.
 - **Font Awesome**: Ícones sociais.

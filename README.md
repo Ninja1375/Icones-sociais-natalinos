@@ -43,13 +43,13 @@ Arquivo CSS que estiliza os ícones e o fundo.
 1. Clone este repositório:
 
    ```bash
-git clone https://github.com/Ninja1375/Icones-sociais-natalinos.git
+   git clone https://github.com/Ninja1375/Icones-sociais-natalinos.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-cd Icone-sociais-natalinos
+   cd Icone-sociais-natalinos
    ```
 
 3. Abra o arquivo `index.html` em seu navegador.

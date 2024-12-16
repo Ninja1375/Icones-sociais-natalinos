@@ -43,17 +43,23 @@ Arquivo CSS que estiliza os ícones e o fundo.
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/Icones-sociais-natalinos.git
+git clone https://github.com/Ninja1375/Icones-sociais-natalinos.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd icone-sociais-natalinos
+cd Icone-sociais-natalinos
 ```
 
-Abra o arquivo index.html em seu navegador.
+3. Abra o arquivo `index.html` em seu navegador.
 
-PersonalizaçãoSubstitua os links nos elementos <a> no arquivo HTML pelos URLs das suas redes sociais.Customize cores ou tamanhos no arquivo CSS conforme necessário.Contribuições
+## Personalização
+
+Substitua os links nos elementos `<a>` no arquivo HTML pelos URLs das suas redes sociais.
+
+Customize cores ou tamanhos no arquivo CSS conforme necessário.
+
+## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues ou enviar um Pull Request.
